@@ -17,8 +17,9 @@ Your personal AI guide to mastering any skill. Pathfinder AI generates dynamic, 
 
 Here is a look at the core experience of Pathfinder AI, showcasing a generated learning path.
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5b9589f6-36e4-44ce-84d1-b86c5e64c34f" alt="Pathfinder AI App Screenshot" width="350"/>
+  <img src="https://github.com/user-attachments/assets/30c66c88-5319-4f8a-a1af-35395995af8d" alt="Pathfinder AI App Screenshot" width="350"/>
 </p>
 
 ## 🛠️ Tech Stack
